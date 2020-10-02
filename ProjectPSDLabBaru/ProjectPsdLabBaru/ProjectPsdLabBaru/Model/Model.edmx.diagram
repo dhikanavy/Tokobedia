@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7b9bb55de8c74d799ed19633847e03ba" Name="Diagram1" ZoomLevel="43">
+        <EntityTypeShape EntityType="DatabaseModel.Cart" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.DetailTransaction" Width="1.5" PointX="7.5" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.HeaderTransaction" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.PaymentType" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Product" Width="1.5" PointX="5.25" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.ProductType" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.Role" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel.User" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <AssociationConnector Association="DatabaseModel.FK__Carts__ProductID__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__Carts__UserID__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__DetailTra__Produ__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__DetailTra__Trans__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__HeaderTra__Payme__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__HeaderTra__UserI__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__Products__Produc__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel.FK__Users__RoleID__29572725" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

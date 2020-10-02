@@ -1,0 +1,74 @@
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ApplicationInsights.config
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\csc.exe
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\System.Collections.Immutable.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\vbc.exe
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\VBCSCompiler.exe
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\VBCSCompiler.exe.config
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.dll.config
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.pdb
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.SqlServer.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.DependencyCollector.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Web.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.WindowsServer.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.ApplicationInsights.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.SqlServer.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.DependencyCollector.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Web.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.WindowsServer.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.ApplicationInsights.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.csprojResolveAssemblyReference.cache
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.dll
+D:\SEM 4\GSLC\PSD(LAB)\Project\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.pdb
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ApplicationInsights.config
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\csc.exe
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\vbc.exe
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.dll.config
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\ProjectPsdLabBaru.pdb
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.SqlServer.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Web.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\EntityFramework.SqlServer.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.Web.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.csprojResolveAssemblyReference.cache
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.dll
+C:\Users\Andhika\Desktop\PSD\ProjectPSDLabBaru\ProjectPsdLabBaru\ProjectPsdLabBaru\obj\Debug\ProjectPsdLabBaru.pdb
